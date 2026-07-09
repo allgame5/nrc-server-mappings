@@ -1,1 +1,7 @@
-
+{
+  "name": "Cubeflash",
+  "ip": "Cubeflash.net",
+  "assets": {
+    "background": "./bg.png"
+  }
+}
