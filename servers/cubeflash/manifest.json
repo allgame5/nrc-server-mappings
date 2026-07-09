@@ -1,7 +1,15 @@
 {
-  "name": "Cubeflash",
-  "ip": "Cubeflash.net",
+  "server-address": [
+    "Cubeflash.net"
+  ],
+  "pretty-name": "Cubeflash",
+  "socials": {
+    "website": "https://www.cubeflash.net",
+    "discord": "https://discord.gg/2f5ZJfRFJ4"
+  },
   "assets": {
+    "icon": "./icon.png",
     "background": "./bg.png"
-  }
+  },
+  "disabled-modules": []
 }
