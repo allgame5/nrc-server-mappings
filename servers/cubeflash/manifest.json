@@ -1,8 +1,18 @@
 {
   "server-address": [
-    "Cubeflash.net"
+    "cubeflash.net"
   ],
   "pretty-name": "Cubeflash",
+  "categorys": [
+    "SURVIVAL"
+  ],
+  "gamemodes": {
+    "Survival": {
+      "name": "Survival",
+      "versions": "1.21 ->",
+      "description": "Welcome to Cubeflash!"
+    }
+  },
   "socials": {
     "website": "https://www.cubeflash.net",
     "discord": "https://discord.gg/2f5ZJfRFJ4"
@@ -10,6 +20,5 @@
   "assets": {
     "icon": "./icon.png",
     "background": "./bg.png"
-  },
-  "disabled-modules": []
+  }
 }
